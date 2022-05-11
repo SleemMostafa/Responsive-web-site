@@ -1,12 +1,12 @@
 # Responsive-web-site
-The car showroom website consists of 4 pages: the home page, the products page, a new account registration page, and a login page ز
+The car showroom website consists of 4 pages: the home page, the products page, a new account registration page, and a login page .
 
 # using 
 -Html 5
 -Css 3
 -Bootstrap
 
-# Images
+# Images from web site
 ![Home01](https://user-images.githubusercontent.com/105351178/167830531-5377e1c2-7d9f-475b-98cc-110d519f98a6.jpg)
 
 ![Home02](https://user-images.githubusercontent.com/105351178/167830589-2b83865b-2320-483c-b960-f01dc7d55596.jpg)
